@@ -7,7 +7,7 @@
 
 - Active first-party app trees: **8**
 - AETHERFORGE OS/config/integration files tracked: **232**
-- Current AETHERFORGE commit: `743bd90a53d6`
+- Current AETHERFORGE commit: `9f25e667e1ec`
 - Development artifacts: rolling `wip-post-reset` prerelease
 
 Main repository: https://github.com/pattendnd1-png/AETHERFORGE
