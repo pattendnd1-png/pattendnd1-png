@@ -5,9 +5,9 @@
 
 **Work-in-progress RUST reforge** using **Garuda Linux / Arch Linux as the OS-tree backbone**.
 
-- Active first-party app trees: **8**
+- Active first-party app trees: **9**
 - AETHERFORGE OS/config/integration files tracked: **239**
-- Current AETHERFORGE commit: `0689c479bebb`
+- Current AETHERFORGE commit: `ff5c3337f9a2`
 - Development artifacts: rolling `wip-post-reset` prerelease
 
 Main repository: https://github.com/pattendnd1-png/AETHERFORGE
